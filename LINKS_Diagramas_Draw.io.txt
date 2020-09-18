@@ -1,0 +1,11 @@
+Links Diagramas en draw.io
+
+CASOS DE USO :  https://app.diagrams.net/#G1B4jYnUkr0KLs5UpLkU4pv7WEHgzSiD5U
+
+NUCLEOS, METODOS Y PRÁCTICAS: https://app.diagrams.net/#G15h7vTfkSPFYPoj-PBovd-dWMSohsWx4e
+
+DIGRAMA DE REQUERIMIENTOS: https://app.diagrams.net/#G1CU-d-_TDBakF0oOGAESQ9X7tKUXB0ctY
+
+DIAGRAMA DE SECUENCIAS:https://app.diagrams.net/#G1pZ25qzDqNAmy34D5rnLXrPmwTpbD6CHL
+
+DIAGRAMA DE MAQUINAS DE ESTADO: https://app.diagrams.net/#G17jtpBAh73-QGxPYnLa9WBNqdFYoQzSxs
